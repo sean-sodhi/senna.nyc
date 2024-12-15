@@ -4,6 +4,7 @@
 
 ## Tools and Technologies Used
 
+
 - **Frontend Framework:** Built using [Next.js](https://nextjs.org/) for server-side rendering and static site generation, ensuring fast loading times and SEO optimization.
 - **UI Library:** [React](https://reactjs.org/) for building reusable, component-based interfaces.
 - **Styling:** Styled with [styled-components](https://styled-components.com/), allowing for scoped CSS and dynamic theming.
